@@ -4,19 +4,6 @@
 Department of Computer Science,
 University of Toronto
 
-This code is provided solely for the personal and private use of
-students taking the CSC148 course at the University of Toronto.
-Copying for purposes other than this use is expressly prohibited.
-All forms of distribution of this code, whether as given or with
-any changes, are expressly prohibited.
-
-Authors: Misha Schwartz, Mario Badr, Christine Murad, Diane Horton,
-Sophia Huynh and Jaisie Sin
-
-All of the files in this directory and all subdirectories are:
-Copyright (c) 2020 Misha Schwartz, Mario Badr, Christine Murad, Diane Horton,
-Sophia Huynh and Jaisie Sin
-
 === Module Description ===
 
 This file contains classes that describe a university course and the students
